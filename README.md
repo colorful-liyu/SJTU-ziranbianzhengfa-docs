@@ -6,7 +6,7 @@
 
 ##### MADE BY 鲤鱼, 如有错误可直接在issues区反馈
 ##### P.S. 感谢鲲同学记录的上课笔记
-##### 另外，我们实验室主攻方向为用深度学习的方法完成3D的驱动、艺术图像的生成模型等，最新工作进展会发布在GITHUB组织AIARTSJTU中，https://github.com/AIARTSJTU/NeuralRenderingTutorial 是师兄写的一个很棒的深度学习生成模型入门手册，https://github.com/AIARTSJTU/NeuralRenderingTutorial是很好的换脸工作，已有1.5Kstar，在这里小小地宣传一下~ 
+##### 另外，我们实验室主攻方向为用深度学习的方法完成3D的驱动、艺术图像的生成模型等，最新工作进展会发布在GITHUB组织AIARTSJTU中，https://github.com/AIARTSJTU/NeuralRenderingTutorial 是师兄写的一个很棒的深度学习生成模型入门手册，https://github.com/neuralchen/SimSwap 是很好的换脸工作，已有1.5Kstar，在这里小小地宣传一下~ 
 
 # 考试题型复习指南
 ### 题型：选择题10* 2分、简答题4* 5分、论述题2* 30分
